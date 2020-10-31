@@ -11,6 +11,8 @@ I'm Naveen, a Software Engineer with passion for building products.
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br>
+
 ### 💻 Tools and Technologies
 <p align="left">
 <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>
