@@ -1,4 +1,4 @@
-# Hey there <a href="https://github.com/NaveenShanmugavel18"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey there <a href="https://github.com/NaveenShanmugavel18"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## 🧐 About Me
 ##### I'm Naveen, a Software Engineer with passion for building products.
