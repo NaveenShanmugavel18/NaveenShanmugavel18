@@ -1,7 +1,8 @@
 ### Hey there <a href="https://github.com/NaveenShanmugavel18"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## 🧐 About Me
-##### I'm Naveen, a Software Engineer with passion for building products.
+### 🧐 About Me
+
+I'm Naveen, a Software Engineer with passion for building products.
 
 <a href="https://twitter.com/naveensv18">
   <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -9,9 +10,25 @@
 <a href="https://www.linkedin.com/in/naveen-shanmugavel-94461967">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br>
 
-## 📈 Github Stats
+### 💻 Tools and Technologies
+<p align="left">
+<img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg alt=express width="40" height="40"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="40" height="40"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg alt=redis width="40" height="40"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="40" height="40"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="40" height="40"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg alt=git width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" height="40" width="40" >
+<img src=https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg alt=docker width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes" height="40" width="40" >
+<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" height="40" width="40" >
+  </p>
+
+### 📈 Github Stats
 ![Naveen Shanmugavel's Github](https://github-readme-stats.vercel.app/api?username=NaveenShanmugavel18&show_icons=true&count_private=true) ![Naveen Shanmugavel's PL Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenShanmugavel18&layout=compact)
 <!--
 **NaveenShanmugavel18/NaveenShanmugavel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
