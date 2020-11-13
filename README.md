@@ -28,7 +28,7 @@ I'm Naveen, a Software Engineer with passion for building products.
 ### 🌐 Where to find me
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naveen-shanmugavel-94461967)
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/naveensv18)
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/naveensv18)
 
 <!--
 **NaveenShanmugavel18/NaveenShanmugavel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
