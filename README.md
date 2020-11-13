@@ -4,15 +4,6 @@
 
 I'm Naveen, a Software Engineer with passion for building products.
 
-<a href="https://twitter.com/naveensv18">
-  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/naveen-shanmugavel-94461967">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<br>
-
 ### 💻 Tools and Technologies
 <p align="left">
 <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>
@@ -32,6 +23,13 @@ I'm Naveen, a Software Engineer with passion for building products.
 
 ### 📈 Github Stats
 ![Naveen Shanmugavel's Github](https://github-readme-stats.vercel.app/api?username=NaveenShanmugavel18&show_icons=true&count_private=true) ![Naveen Shanmugavel's PL Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenShanmugavel18&layout=compact)
+
+
+### 🌐 Where to find me
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naveen-shanmugavel-94461967)
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/naveensv18)
+
 <!--
 **NaveenShanmugavel18/NaveenShanmugavel18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
