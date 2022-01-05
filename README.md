@@ -22,7 +22,7 @@ I'm Naveen, a Software Engineer with passion for building products.
   </p>
 
 ### 📈 Github Stats
-![Naveen Shanmugavel's Github](https://github-readme-stats.vercel.app/api?username=NaveenShanmugavel18&show_icons=true&count_private=true) #![Naveen Shanmugavel's PL Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenShanmugavel18&layout=compact)
+![Naveen Shanmugavel's Github](https://github-readme-stats.vercel.app/api?username=NaveenShanmugavel18&show_icons=true&count_private=true) ![Naveen Shanmugavel's PL Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenShanmugavel18&layout=compact)
 
 
 ### 🌐 Where to find me
