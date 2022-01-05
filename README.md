@@ -10,13 +10,13 @@ I'm Naveen, a Software Engineer with passion for building products.
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png alt=css3 width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png alt=javascript width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png alt=express width="40" height="40"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="40" height="40"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg alt=redis width="40" height="40"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="40" height="40"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="40" height="40"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg alt=git width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png alt=nodejs width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png alt=redis width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png alt=mysql width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png alt=mongodb width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png alt=git width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" height="40" width="40" >
-<img src=https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg alt=docker width="40" height="40"/>
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png alt=docker width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes" height="40" width="40" >
 <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" height="40" width="40" >
   </p>
